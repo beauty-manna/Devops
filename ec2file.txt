@@ -1,0 +1,1 @@
+Amazon Web Services (AWS) provides scalable cloud computing services. Amazon EC2 allows users to rent virtual servers (instances) on-demand. These instances can run applications without requiring physical hardware. EC2 follows a pay-as-you-go model and supports various OS types like Linux and Windows.
