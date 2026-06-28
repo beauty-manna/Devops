@@ -1,1 +1,2 @@
 "Prog 3 Practice - Hello World"
+"If empty repository then it will happen simply(git branch -M main,git push -u origin main). If repository content some file then another rules.(git branch -M main,git pull origin main --allow-unrelated-histories,git push -u origin main)"
